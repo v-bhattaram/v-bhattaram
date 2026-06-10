@@ -8,7 +8,7 @@
   </defs>
   <rect width="900" height="40" fill="url(#bg)" rx="6"/>
   <text font-family="monospace" font-size="14" font-weight="bold" fill="#00D9FF" y="26">
-    <tspan>⚡ Venkata Bhattaram &nbsp;|&nbsp; 🖥️ Software Developer &nbsp;|&nbsp; 🤖 Tech Enthusiast &nbsp;|&nbsp; 🌟 Open Source &nbsp;|&nbsp; 💼 Open to Opportunities &nbsp;|&nbsp; 🚀 Let's Build Together &nbsp;|&nbsp; ⚡ Venkata Bhattaram &nbsp;|&nbsp; 🖥️ Software Developer &nbsp;|&nbsp; 🤖 Tech Enthusiast</tspan>
-    <animate attributeName="x" from="900" to="-2200" dur="22s" repeatCount="indefinite"/>
+    <tspan>&#x26A1; Venkata Bhattaram&#160;&#160;|&#160;&#160;&#x1F5A5; Software Developer Architect&#160;&#160;|&#160;&#160;&#x1F916; AI Enthusiast&#160;&#160;|&#160;&#160;&#x1F31F; Start Ups&#160;&#160;|&#160;&#160;&#x1F4BC; Open to Opportunities&#160;&#160;|&#160;&#160;&#x1F680; Let's Build Together&#160;&#160;&#160;&#160;&#160;&#160;&#x26A1; Venkata Bhattaram&#160;&#160;|&#160;&#160;&#x1F5A5; Software Developer Architect&#160;&#160;|&#160;&#160;&#x1F916; AI Enthusiast&#160;&#160;|&#160;&#160;&#x1F31F; Start Ups&#160;&#160;|&#160;&#160;&#x1F4BC; Open to Opportunities&#160;&#160;|&#160;&#160;&#x1F680; Let's Build Together</tspan>
+    <animate attributeName="x" from="900" to="-2600" dur="25s" repeatCount="indefinite"/>
   </text>
 </svg>
