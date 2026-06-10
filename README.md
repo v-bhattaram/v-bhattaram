@@ -88,9 +88,8 @@ interests:
 ## 💬 Connect With Me
 
 <div align="center">
-
 <!-- ── MARQUEE LINE 2 : scrolling quote (SVG animation) ── -->
-<img src="https://raw.githubusercontent.com/v-bhattaram/v-bhattaram/main/marquee-quote.svg" width="100%" alt="quote marquee"/>
+<img src="https://raw.githubusercontent.com/v-bhattaram/v-bhattaram/refs/heads/main/marquee-quote.svg" width="100%" alt="quote marquee"/>
 
 <br/><br/>
 
