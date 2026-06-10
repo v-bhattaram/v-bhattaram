@@ -1,0 +1,7 @@
+<svg width="900" height="36" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="36" fill="#0d1117" rx="6"/>
+  <text font-family="monospace" font-size="13" fill="#58a6ff" y="23">
+    <tspan>✨ "Code is like humor. When you have to explain it, it's bad." — Cory House &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✨ "First, solve the problem. Then, write the code." — John Johnson &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✨ "Code is like humor. When you have to explain it, it's bad." — Cory House</tspan>
+    <animate attributeName="x" from="900" to="-3000" dur="30s" repeatCount="indefinite"/>
+  </text>
+</svg>
