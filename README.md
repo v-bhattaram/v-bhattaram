@@ -7,11 +7,6 @@
 <!-- ── MARQUEE LINE 1 : scrolling banner (SVG animation, works on GitHub) ── -->
 <img src="https://raw.githubusercontent.com/v-bhattaram/v-bhattaram/refs/heads/main/marquee-top.svg" width="100%" alt="marquee"/>
 
-<br/>
-
-<!-- ── ANIMATED TYPING TEXT ── -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=👋+Hi%2C+I'm+Venkata+Bhattaram!;🚀+Software+Developer+%7C+Tech+Enthusiast;💡+Building+solutions%2C+one+commit+at+a+time;🌐+Connect+with+me+on+LinkedIn+→+venkata-bhattaram;⚡+Always+learning%2C+always+growing!" alt="Typing SVG" />
-
 <br/><br/>
 
 <!-- ── BADGES ── -->
