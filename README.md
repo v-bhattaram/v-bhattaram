@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- ── MARQUEE LINE 1 : scrolling banner (SVG animation, works on GitHub) ── -->
-<img src="https://raw.githubusercontent.com/v-bhattaram/v-bhattaram/main/marquee-top.svg" width="100%" alt="marquee"/>
+<img src="https://raw.githubusercontent.com/v-bhattaram/v-bhattaram/refs/heads/main/marquee-top.svg" width="100%" alt="marquee"/>
 
 <br/>
 
