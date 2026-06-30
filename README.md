@@ -5,24 +5,8 @@
 <div align="center">
 
 <!-- ── MARQUEE LINE 1 : scrolling banner (SVG animation, works on GitHub) ── -->
-<!-- <img src="https://raw.githubusercontent.com/v-bhattaram/v-bhattaram/refs/heads/main/marquee-top.svg" width="100%" alt="marquee"/> -->
-<marquee scrollamount="6">
-  <img src="https://githubusercontent.com" width="100%" alt="marquee"/>
-</marquee>
+<img src="https://raw.githubusercontent.com/v-bhattaram/v-bhattaram/refs/heads/main/marquee-top.svg" width="100%" alt="marquee"/>
 
-
-<div style="overflow: hidden; white-space: nowrap;">
-  <div style="display: inline-block; animation: marquee 10s linear infinite;">
-    Your scrolling content goes here...
-  </div>
-</div>
-
-<style>
-@keyframes marquee {
-  0% { transform: translateX(100%); }
-  100% { transform: translateX(-100%); }
-}
-</style>
 
 <br/><br/>
 
