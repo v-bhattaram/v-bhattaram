@@ -11,6 +11,19 @@
 </marquee>
 
 
+<div style="overflow: hidden; white-space: nowrap;">
+  <div style="display: inline-block; animation: marquee 10s linear infinite;">
+    Your scrolling content goes here...
+  </div>
+</div>
+
+<style>
+@keyframes marquee {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
+</style>
+
 <br/><br/>
 
 <!-- ── BADGES ── -->
