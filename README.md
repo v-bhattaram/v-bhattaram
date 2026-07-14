@@ -58,10 +58,6 @@ interests:
 
 ## 🏆 GitHub Repos
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=v-bhattaram&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</div>
-
 ---
 
 ## 💬 Connect With Me
