@@ -30,7 +30,7 @@
 | **Location** | Dallas TX, USA |
 | **LinkedIn** | [linkedin.com/in/venkata-bhattaram](https://www.linkedin.com/in/venkata-bhattaram/) |
 | **Focus** | Building impactful software solutions |
-| **Interests** | Software Development & Architecture, Problem Solving & Algorithms, Open Source Contributions, Continuous Learning |
+| **Interests** | * Data Engineering & Architecture <br> * Data Quality and Governance <br> * AI Models Automation Agents  <br> * Open Source Contributions, Continuous Learning |
 
 ---
 ### Connect & Follow
