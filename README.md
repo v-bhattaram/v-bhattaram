@@ -29,7 +29,7 @@
 |---|---|
 | **Location** | Remote - USA <br> Dallas TX, USA |
 | **LinkedIn** | [linkedin.com/in/venkata-bhattaram](https://www.linkedin.com/in/venkata-bhattaram/) |
-| **Focus** | Building impactful software solutions |
+| **Focus** | 🔹 Frameworks and Reusable Code <br> 🔹 Cost Effective Solutions 🔹 Well Documented and Formatted Code 🔹 Building impactful software solutions |
 | **Interests** | 💎 Data Engineering & Architecture <br> 💎 Data Quality and Governance <br> 💎 AI Models Automation Agents  <br> 💎 Open Source Contributions, Continuous Learning |
 
 ---
